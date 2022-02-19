@@ -11,7 +11,7 @@ public class Aprendiendo
 		Console.WriteLine($"no aparentas {ed} años "); ;
 
 		//Ejercicio 2 multiplicación
-		byte n1, n2, m1;
+		byte n1, n2;
 		Console.WriteLine("Ingrese 2 numeros de 2 crifas:");
 		n1 = Convert.ToByte(Console.ReadLine());
 		n2 = Convert.ToByte(Console.ReadLine());
@@ -36,7 +36,7 @@ public class Aprendiendo
 		prod = num1 / num2;
 		Console.WriteLine("El resultado del producto  es: " + prod);
 		Console.ReadLine();
-		Console.ReadLine(); ;
+
 
 	}
 }
@@ -44,5 +44,6 @@ public class Aprendiendo
 
 
 
-	
+
+
 
