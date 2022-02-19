@@ -1,0 +1,15 @@
+C:\Users\dell\source\repos\Consoleprogra1\Consoleprogra1\obj\Debug\net6.0\Consoleprogra1.csproj.AssemblyReference.cache
+C:\Users\dell\source\repos\Consoleprogra1\Consoleprogra1\obj\Debug\net6.0\Consoleprogra1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dell\source\repos\Consoleprogra1\Consoleprogra1\obj\Debug\net6.0\Consoleprogra1.AssemblyInfoInputs.cache
+C:\Users\dell\source\repos\Consoleprogra1\Consoleprogra1\obj\Debug\net6.0\Consoleprogra1.AssemblyInfo.cs
+C:\Users\dell\source\repos\Consoleprogra1\Consoleprogra1\obj\Debug\net6.0\Consoleprogra1.csproj.CoreCompileInputs.cache
+C:\Users\dell\source\repos\Consoleprogra1\Consoleprogra1\bin\Debug\net6.0\Consoleprogra1.exe
+C:\Users\dell\source\repos\Consoleprogra1\Consoleprogra1\bin\Debug\net6.0\Consoleprogra1.deps.json
+C:\Users\dell\source\repos\Consoleprogra1\Consoleprogra1\bin\Debug\net6.0\Consoleprogra1.runtimeconfig.json
+C:\Users\dell\source\repos\Consoleprogra1\Consoleprogra1\bin\Debug\net6.0\Consoleprogra1.dll
+C:\Users\dell\source\repos\Consoleprogra1\Consoleprogra1\bin\Debug\net6.0\ref\Consoleprogra1.dll
+C:\Users\dell\source\repos\Consoleprogra1\Consoleprogra1\bin\Debug\net6.0\Consoleprogra1.pdb
+C:\Users\dell\source\repos\Consoleprogra1\Consoleprogra1\obj\Debug\net6.0\Consoleprogra1.dll
+C:\Users\dell\source\repos\Consoleprogra1\Consoleprogra1\obj\Debug\net6.0\ref\Consoleprogra1.dll
+C:\Users\dell\source\repos\Consoleprogra1\Consoleprogra1\obj\Debug\net6.0\Consoleprogra1.pdb
+C:\Users\dell\source\repos\Consoleprogra1\Consoleprogra1\obj\Debug\net6.0\Consoleprogra1.genruntimeconfig.cache
