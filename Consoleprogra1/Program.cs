@@ -35,7 +35,7 @@ public class Aprendiendo
 
 		prod = num1 / num2;
 		Console.WriteLine("El resultado del producto  es: " + prod);
-		Console.ReadLine();
+		Console.ReadLine(); ;
 
 
 	}
